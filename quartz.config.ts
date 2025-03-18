@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Design Team - F",
+    pageTitle: "MIST Group 8 | SWAB",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "mist.swabuga.org",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     generateSocialImages: false,
@@ -41,7 +41,7 @@ const config: QuartzConfig = {
           textHighlight: "#161618",
         },
         darkMode: {
-          light: "#1E241E  ",
+          light: "#000000  ",
           lightgray: "#335b31",
           gray: "#5ab35a",
           darkgray: "#ffffff",

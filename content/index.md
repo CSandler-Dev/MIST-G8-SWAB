@@ -1,27 +1,36 @@
 ---
-title: Re-envisioning UGA for 2034
+title: MIST 5740S G8 | SWAB EDMS
 tags:
 ---
->[!warning] Primary Design Task: 
->How might the value proposition of higher education institutions evolve so that they better serve their mission, their stakeholders, and their learners. 
+>[!important] Primary Project Task: 
+>Our group is tasked with findinng, working with, and planning a project for a local business or organization that needs a new IT system.
 >
->Simply put, how might we re-envision the university? What can or should they become? 
->
->**To personalize, what should UGA look like in 2034?**
+>We have decided to work with SWAB UGA, a local nonprofit on campus on a software to manage participants across our Event Day. We are calling it our Event Day Management System (EDMS)
+
+> This website will grow and develop as we further explore, define, and work on our group project with SWAB
+##### Learn how this works: [[How to Use This Site 👆]]
+---
+# Main Menus
+#### [[🏠SWAB Context]]
+- Series of notes that explain **in depth** the high-level view of SWAB and our needs
+#### [[🏠Solution Prototype]]
+- Series of notes that begin to define the project scope & solution G8 is going to attack
+#### [[🏠Project Plan]]
+- COMING SOON
 
 ---
-# Website Content ⬇️
-###### Learn how this works: [[How to Use This Site 👆]]
+# Initial Breakdown
+### What is the point of this project?
+- SWAB is partnering with MIST G8 to develop, outline, and ultimately plan an EDMS to help us solve the problems of our technically interconnected Event Day
+- We hope to be able to create a plan to both solve the problem at hand while also creating real organizational value
 
-> This website will be a living note garden that will grow as we develop our HCD solution to the prompt above.
-## Discovery (Initial Design Process)
-- [[🏠EDIP]]
-	- Empathize, define, ideate & prototype
-		- This is a summary of our design process broken down into steps
-		- This contains our design thinking
-- [[🏠Customer Segments]]
-	- This is a summary of our customer segments after data collection & analysis
-
-## Solutions (Main Prototype)
-- [[🏠Student Credit Score (SCS)]]
-	- This is the prototype we landed on after the HCD process
+### What are we planning on focusing on the most?
+- SWAB's "main event" is its yearly Event Day and because we only have **ONE** a year there isn't much room for iterative development and we run into issues day of
+- We **REALLY** need a system to ensure our Event Day participants, especially minors, are safe and tracked across the duration of the Event Day
+- Main areas of focus
+	- Checkin
+	- Checkpoints
+	- Checkout
+### How to begin navigating our planning direction
+- Each folder in the "Explorer" represents a subdivision of project planning
+- Begin with SWAB context & observe the web of linked notes
