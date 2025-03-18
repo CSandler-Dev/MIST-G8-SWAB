@@ -39,7 +39,7 @@ export default ((opts: LogoOptions = {}) => {
         <img
           id="logo"
           src="/static/icon.png"
-          alt="Innovation Hub Logo"
+          alt="SWAB Logo"
           style={{
             height: opts.height || "2rem",
             width: "auto",

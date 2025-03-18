@@ -30,26 +30,26 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#FFFFFF", // White background
-          lightgray: "#c0c0c0", // Light gray for borders
-          gray: "#282828", // Gray for links and heavier borders
-          darkgray: "#000000", // Darker gray for body text
-          dark: "#000000", // Black for header text and icons
-          secondary: "#BA393D", // Muted UGA Red for active elements
-          tertiary: "#BA393D", // Muted UGA Red for hover states
-          highlight: "#FFEEEE",
-          textHighlight: "#fc8d8d", // Muted UGA Red for highlighted text
+          light: "#ffffff",
+          lightgray: "#dddddd",
+          gray: "#0ab35a",
+          darkgray: "#000000",
+          dark: "#161618",
+          secondary: "#4daf6d",
+          tertiary: "#005a2b",
+          highlight: "rgba(132, 242, 132, 0.19)",
+          textHighlight: "#161618",
         },
         darkMode: {
-          light: "#000000", // Dark background
-          lightgray: "#282828", // Darker gray for borders
-          gray: "#555555", // Lighter gray for links and heavier borders
-          darkgray: "#EEEEEE", // Light gray for body text
-          dark: "#EEEEEE", // Off-white for header text and icons
-          secondary: "#BA393D", // Muted UGA Red for active elements
-          tertiary: "#EEEEEE", // Muted UGA Red for hover states
-          highlight: "#441111",
-          textHighlight: "#7d2525", // Muted UGA Red for highlighted text
+          light: "#1E241E  ",
+          lightgray: "#335b31",
+          gray: "#5ab35a",
+          darkgray: "#ffffff",
+          dark: "#ffffff",
+          secondary: "#6dbf6d",
+          tertiary: "#ffffff",
+          highlight: "rgba(108, 159, 99, 0.44)",
+          textHighlight: "#007738", // Muted UGA Red for highlighted text
         },
       },
     },
