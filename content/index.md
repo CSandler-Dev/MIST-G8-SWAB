@@ -20,18 +20,17 @@ tags:
 - COMING SOON
 
 ---
-# Initial Thought Breakdown
-### What is the point of this project?
+## Initial Thought Breakdown
+#### What is the point of this project?
 - SWAB is partnering with MIST G8 to develop, outline, and ultimately plan an EDMS to help us solve the problems of our technically interconnected Event Day
 - We hope to be able to create a plan to both solve the problem at hand while also creating real organizational value
-
-### What are we planning on focusing on the most?
+#### What are we planning on focusing on the most?
 - SWAB's "main event" is its yearly Event Day and because we only have **ONE** a year there isn't much room for iterative development and we run into issues day of
 - We **REALLY** need a system to ensure our Event Day participants, especially minors, are safe and tracked across the duration of the Event Day
 - Main areas of focus
 	- Checkin
 	- Checkpoints
 	- Checkout
-### How to begin navigating our planning direction
+#### How to begin navigating our planning direction
 - Each folder in the "Explorer" represents a subdivision of project planning
 - Begin with SWAB context & observe the web of linked notes
