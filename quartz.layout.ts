@@ -24,8 +24,8 @@ export const defaultContentPageLayout: PageLayout = {
     Component.TagList(),
   ],
   left: [
-    Logo({ height: "10rem" }),
-    Component.DesktopOnly(Component.PageTitle()),
+    Component.DesktopOnly(Logo({ height: "10rem" })),
+    Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),

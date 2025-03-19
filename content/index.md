@@ -1,9 +1,9 @@
 ---
-title: MIST 5740S G8 | SWAB EDMS
+title: Home
 tags:
 ---
 >[!important] Primary Project Task: 
->Our group is tasked with findinng, working with, and planning a project for a local business or organization that needs a new IT system.
+>Our group is tasked with finding, working with, and planning a project for a local business or organization that needs a new IT system.
 >
 >We have decided to work with SWAB UGA, a local nonprofit on campus on a software to manage participants across our Event Day. We are calling it our Event Day Management System (EDMS)
 
@@ -19,7 +19,7 @@ tags:
 - COMING SOON
 
 ---
-# Initial Breakdown
+# Initial Thought Breakdown
 ### What is the point of this project?
 - SWAB is partnering with MIST G8 to develop, outline, and ultimately plan an EDMS to help us solve the problems of our technically interconnected Event Day
 - We hope to be able to create a plan to both solve the problem at hand while also creating real organizational value

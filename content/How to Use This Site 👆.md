@@ -12,4 +12,4 @@ This is a Static Site Generated (SSG) website interfacing a relational database 
 
 #### Icons to Know
 - 👆: Click or hover over this
-- 🏠: Home note of a folder
+- 🏠: Home page of a folder
