@@ -18,7 +18,8 @@ tags:
 ## Prototype System Overview (Birdseye)
 
 > [!warning] Better in the Dark
-> Click the sun to switch to dark mode. Reload the page if there is text below and the diagram will show.
+> Click the sun to switch to dark mode. 
+> Reload the page if there is text below and the diagram will show.
 
 ```mermaid
 graph TD
