@@ -3,7 +3,7 @@ tags:
   - homepage
 ---
 > [!info] High-Level Overview
-> The notes below give more context to SWAB as an organization. It begins to define the problems we need help solving
+> The notes below give more context to SWAB as an organization. It begins to define the problems we need help solving.
 
 -  [[1. About SWAB]]
 	- Learn about SWAB from a high level
