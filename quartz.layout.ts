@@ -30,7 +30,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Search(),
     Component.Darkmode(),
     Component.Explorer({
-      title: "Explore Our Project",
+      title: "Main Menus",
       folderClickBehavior: "link", // what happens when you click a folder ("link" to navigate to folder page on click or "collapse" to collapse folder on click)
       folderDefaultState: "collapsed", // default state of folders ("collapsed" or "open")
       useSavedState: true,

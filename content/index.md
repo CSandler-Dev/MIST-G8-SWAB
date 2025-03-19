@@ -11,10 +11,10 @@ tags:
 ##### Learn how this works: [[How to Use This Site 👆]]
 ---
 # Main Menus
-#### [[🏠SWAB Context]]
-- Series of notes that explain **in depth** the high-level view of SWAB and our needs
 #### [[🏠Solution Prototype]]
 - Series of notes that begin to define the project scope & solution G8 is going to attack
+#### [[🏠SWAB Context]]
+- Series of notes that explain **in depth** the high-level view of SWAB and our needs
 #### [[🏠Project Plan]]
 - COMING SOON
 
