@@ -12,11 +12,11 @@ tags:
 ---
 # Main Menus
 
-#### [[🏠SWAB Context]]
+## [[🏠SWAB Context]]
 - Series of notes that explain **in depth** the high-level view of SWAB and our needs
-#### [[🏠Technical Breakdown]]
+## [[🏠Technical Breakdown]]
 - Series of notes that begin to define the project scope & solution G8 is going to attack
-#### [[🏠Project Plan]]
+## [[🏠Project Plan]]
 - COMING SOON
 
 ---
