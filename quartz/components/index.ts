@@ -45,3 +45,7 @@ export {
   Breadcrumbs,
   Comments,
 }
+
+export function Logo(arg0: { height: string }): import("./types").QuartzComponent | undefined {
+  throw new Error("Function not implemented.")
+}
